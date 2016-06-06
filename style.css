@@ -1,0 +1,24 @@
+body {
+  background-color: #999999;
+  text-align: center;
+  font-size: 1.3em;
+  font-family: "Ubuntu mono", monospace;
+  text-shadow: 0 0 .2em #000;
+  color: white;
+}
+#box {
+  width: 35%;
+  margin: 0% auto;
+  background-color: #87C540;
+  padding: 1% 5%;
+  border-radius: 2em;
+  border: .5em solid #fff;
+}
+
+#title {
+  margin: 0% 30%;
+  text-align: center;
+}
+a {
+  text-shadow: 0 0 0;
+}
